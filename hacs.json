@@ -1,0 +1,6 @@
+{
+  "name": "Fingerprint User",
+  "content_in_root": false,
+  "domains": ["fingerprint_user"],
+  "homeassistant": "2025.10.0"
+}

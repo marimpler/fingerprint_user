@@ -1,11 +1,12 @@
 {
   "domain": "fingerprint_user",
   "name": "Fingerprint User",
-  "documentation": "https://github.com/marimpler/fingerprint_user",
   "version": "0.0.1",
+  "documentation": "https://github.com/marimpler/fingerprint_user",
+  "issue_tracker": "https://github.com/marimpler/fingerprint_user/issues",
   "requirements": [],
   "dependencies": [],
   "codeowners": ["@marimpler"],
-  "integration_type": "hub",
-  "iot_class": "local_polling"
+  "iot_class": "local_polling",
+  "integration_type": "hub"
 }
